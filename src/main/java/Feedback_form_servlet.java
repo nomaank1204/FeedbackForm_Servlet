@@ -7,7 +7,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet("/Feedback")
+@WebServlet("/Feedback1")
 public class Feedback_form_servlet extends HttpServlet {
 
     @Override
